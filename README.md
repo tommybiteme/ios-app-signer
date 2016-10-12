@@ -9,9 +9,7 @@ This app requires Xcode to be installed, it has only been successfully tested on
 
 You need a provisioning profile and signing certificate, you can get these from Xcode by creating a new project.
 
-You can then open up iOS App Signer and select your input file, signing certificate, provisioning file, and optionally specify a new application ID and/or application display name.
-
-<a href="https://paypal.me/DanTheMan827" class="donate"><img src="http://dantheman827.github.io/images/donate-button.svg" height="44" alt="Donate"></a>
+You can then open up iOS App Signer and select your input file, signing certificate, provisioning file, and optionally specify a new application ID and/or application display name
 
 Thanks To
 ------
